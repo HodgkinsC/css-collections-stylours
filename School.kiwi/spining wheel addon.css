@@ -1,0 +1,38 @@
+.chart{
+    overflow: hidden !important;
+}
+svg[aria-label="A chart."] {
+  overflow: visible !important;
+  transform-origin: 167px 140px;
+  animation: spinEntireChart 10s linear infinite;
+  
+}
+
+svg[aria-label="A chart."] g:has(path) text {
+  transform-origin: inherit; 
+}
+
+svg[aria-label="A chart."] > g:first-of-type {
+  transform-origin: 167px 140px;
+  animation: counterSpinLegend 9.99s linear infinite;
+}
+/* --- ANIMATION TIMINGS --- */
+@keyframes spinEntireChart {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+@keyframes counterSpinLegend {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(-360deg); }
+}
+
+@keyframes fuckyou {    
+    0% { transform: rotate(0deg); }
+    40% { transform: rotate(0deg); }
+    50%{ transform: rotateY(-360deg) rotateX(-360deg);}
+    70%{ transform: rotate(-360deg) rotateX(-360deg);
+         font-family:"Comic Sans MS", system-ui !important;
+        }
+    100%{ transform: rotate(0deg);}
+}
