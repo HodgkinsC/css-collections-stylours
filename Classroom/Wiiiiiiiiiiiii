@@ -1,0 +1,174 @@
+/*Fix this one up please thanks, it's still bad*/
+*{
+    cursor: url("https://www.rw-designer.com/cursor-view/197286.png"), auto !important;
+}
+
+.ZizeYd {
+    background-color: #282828aa !important;
+}
+
+.R4EiSb, .prWPdf, .ScpeUc, .slDfNd, .FGKRlc, .TlYekf, .Ea4RVb, button.UywwFc-LgbsSe > .UywwFc-vQzf8d, span.UywwFc-kBDsod-Rtc0Jf > i.quRWN-Bz112c {
+    color: #fff !important;
+}
+
+.SYd3U > h2, .AX2up > .slDfNd, div.VF3TCc > .FGKRlc, .JBMs6 > .Vu2fZd{
+    color: #282828 !important;
+}
+
+.VkCvXd .PFLqgc.KFl4Z::before {
+    background: linear-gradient(to right, #0007, #0000) !important;
+}
+
+.UywwFc-LgbsSe {
+    background: linear-gradient(to top, #0b57d0, #357cec);
+}
+
+.UAJaRc {
+    display: block;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    background: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn2.steamgriddb.com%2Ficon_thumb%2Fad95ec9b8ae9bbcc28244c0c00f8089d.png&f=1&nofb=1&ipt=99de3e0d1d4452f3e13f8f35f9feb1b66379bcbb6cfb231a101b2081a7d9dc61") no-repeat;
+    background-size: 28px, 28px;
+    width: 28px; /* Width of new image */
+    height: 28px; /* Height of new image */
+    padding-left: 28px; /* Equal to width of new image */
+}
+
+svg path[d="M19 4h-1V2h-2v2H8V2H6v2H5c-1.11 0-1.99.9-1.99 2L3 20a2 2 0 0 0 2 2h14c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 16H5V9h14v11z"] {
+    d: path("M 19 4 h -1 V 0 h -2 v 4 H 8 V 0 H 6 v 4 H 5 c -1.11 0 -1.99 0.9 -1.99 2 L 3 20 a 2 2 0 0 0 2 2 h 14 c 1.1 0 2 -0.9 2 -2 V 6 c 0 -1.1 -0.9 -2 -2 -2 z m 0 16 H 5 V 9 h 14 v 11 z M 8 11 L 8 15 L 10 15 L 10 11 Z M 16 11 L 16 15 L 14 15 L 14 11 Z M 11 16 L 13 16 L 13 17 L 11 17 Z");
+}
+
+svg path[d="M12 3L4 9v12h16V9l-8-6zm6 16h-3v-6H9v6H6v-9l6-4.5 6 4.5v9z"] {
+    d: path("M 12 3 L 7 9 l 0 7 L 17 16 L 17 9 l -5 -6 z m 3 11 H 9 v -4 l 3 -4 l 3 4 z M 7 17 L 6 20 L 8 18 L 9 21 L 10 19 L 12 24 L 14 19 L 15 21 L 16 18 L 18 20 L 17 17 Z M 6 10 L 6 16 L 3 19 L 3 16 Z M 18 10 L 18 16 L 21 19 L 21 16 Z")
+}
+
+svg path[d="M12 3L1 9l4 2.18v6L12 21l7-3.82v-6l2-1.09V17h2V9L12 3zm6.82 6L12 12.72 5.18 9 12 5.28 18.82 9zM17 15.99l-5 2.73-5-2.73v-3.72L12 15l5-2.73v3.72z"] {
+    d: path("M 12 3 L 1 9 l 4 2.18 v 7.82 L 12 22 l 7 -3 v -8 L 23 9 L 12 3 z m 6.82 6 L 12 12.72 L 5.18 9 L 12 5.28 L 18.82 9 z M 17 18 l -5 2 l -5 -2 v -6 L 12 15 l 5 -2.73 z M 8 14 L 8 17 L 10 18 L 10 15 Z M 16 14 L 16 17 L 14 18 L 14 15 Z M 12 7 L 11 9 L 12 11 L 13 9 Z")
+}
+
+svg path[d="M14.35,2.5h-4.7c-0.71,0-1.37,0.38-1.73,0.99L1.58,14.4c-0.36,0.62-0.36,1.38-0.01,2l2.35,4.09c0.36,0.62,1.02,1,1.73,1 h12.68c0.72,0,1.38-0.38,1.73-1l2.35-4.09c0.36-0.62,0.35-1.38-0.01-2L16.08,3.49C15.72,2.88,15.06,2.5,14.35,2.5z M18.34,19.5H5.66 l-2.35-4.09L9.65,4.5h4.7l6.34,10.91L18.34,19.5z M12.9,7.75h-1.8l-4.58,7.98L7.25,17h9.5l0.73-1.27L12.9,7.75z M9.25,15L12,10.2 l2.75,4.8H9.25z"] {
+    d: path("M14.35 2.5h-4.7c-.71 0-1.37.38-1.73.99L1.58 14.4c-.36.62-.36 1.38-.01 2l2.35 4.09c.36.62 1.02 1 1.73 1h12.68c.72 0 1.38-.38 1.73-1l2.35-4.09c.36-.62.35-1.38-.01-2L16.08 3.49c-.36-.61-1.02-.99-1.73-.99zm4.05 17H5.6l-2.36-4.1L9.6 4.5h4.8l6.45 11zM10 5 9.9 5 3.9 15.4 6 19 14 19 6 13 15 14ZM10 5 14.1 5 20.1 15.5 18 19 14 19 10 14.5 19 16")
+}
+
+.wQiG5d {
+    background: linear-gradient(to right, #c2e7ff, #c2e7ff00) !important;
+}
+
+.uTwgne:hover .pzaVke {
+    background: linear-gradient(to right, #1f1f1f20, #0000);
+}
+
+.mwJvDe .KEDCCd {
+    background-color: #fff7;
+}
+
+.pzaVke, .wQiG5d, .dNKuRb {
+    border-radius: 10px !important;
+}
+
+.joJglb, .tCcYY {
+    background: linear-gradient(to top, #638e985e, #a8e4835e);
+    background-attachment: fixed;
+    fill: #c0d9bd;
+}
+
+.OkLq5b {
+    fill: #0000;
+}
+
+.tCcYY, .joJglb {
+    background: linear-gradient(to top, #638e985e, #a8e4835e), linear-gradient(to top right, #002c9945, #0000), url("https://hodgkinsc.github.io/img/light_better.gif");
+    background-attachment: fixed;
+}
+
+.fXYYpf .T4LgNb, body, .nZGqwf .kFwPee {
+    background: linear-gradient(to top, #638e9826, #a8e48333), url("https://hodgkinsc.github.io/img/light_better.gif");
+    background-attachment: fixed;
+}
+
+body {
+    background-color:#fff;
+}
+
+.FkiMUb {
+    visibility: hidden !important;
+}
+/*.FkiMUb:before {
+    content: "Knowledge";
+    visibility: visible;
+    position: absolute;
+    left: 115px;
+}
+.FkiMUb:hover:before {
+    content: "Education";
+    visibility: visible;
+    position: absolute;
+    left: 115px;
+    text-decoration: underline;
+}*/
+
+.PFLqgc[style='background-image: url("https://gstatic.com/classroom/themes/img_bookclub.jpg");'] {
+    background-image: url("https://hodgkinsc.github.io/img/img_FAKEclub.jpg") !important;
+}
+
+.STek2d[aria-label="Main navigation"] {
+    width: 0px !important;
+    visibility: collapse;
+}
+
+.aBPWdf {
+    flex: 0 0 0;
+}
+
+.QN7cze div[data-container-type="2"], .QN7cze div[data-container-type="3"] {
+    visibility: collapse;
+}
+
+nav#kO001e.joJglb {
+    visibility: collapse;
+}
+
+/* Channel Stuff */
+.gHz6xd {
+    height: 11rem;
+}
+.Tc9hUd {
+    min-height: 11rem;
+}
+.joT7of {
+    visibility: collapse;
+}
+.SZ0kZe {
+    border-top: #0000;
+    top: -3.5rem;
+    position: relative;
+    color: #fff !important;
+}
+.pYTkkf-Bz112c-LgbsSe  {
+    color: inherit;
+}
+.pYTkkf-Bz112c-LgbsSe:hover[jsaction="click:h5M12e;clickmod:h5M12e;pointerdown:FEiYhc;pointerup:mF5Elf;pointerenter:EX0mI;pointerleave:vpvbp;pointercancel:xyn4sd;contextmenu:xexox;focus:h06R8; blur:zjh6rb;mlnRJb:fLiPzd;"] {
+    color: #ccc;
+}
+.SYd3U {
+    visibility: collapse;
+}
+.PM0jOb {
+    padding: 1.5rem;
+    background-color: #fff0;
+}
+.OjOEXb.an3Vhb {
+    background-position: 50%;
+}
+.NgX0Ud {
+    position: relative;
+    top: -4rem;
+}
+
+ol.JwPp0e{
+    list-style-type: decimal;
+}
+
+ol.JwPp0e li{
+    float: left;
+}
