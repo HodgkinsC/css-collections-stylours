@@ -1,0 +1,287 @@
+.sk_logo {
+    background-image: url("https://www.newlands.school.nz/wp-content/uploads/2025/07/NewlandsLogonoBG.png");
+    background-size: 180px;
+    background-repeat: no-repeat;
+    width: 180px;
+    height: 255px;
+    transition: 0.8s;
+    transform: unset;
+}
+
+@keyframes logospin {
+    0%{
+    transform: perspective(250px) rotateY(-90deg);
+    }
+    100%{
+    transform: perspective(250px) rotateY(90deg);
+    }
+}
+
+@keyframes fullspin {
+    0%{
+    transform: perspective(250px) rotateY(0deg);
+    }
+    100%{
+    transform: perspective(250px) rotateY(360deg);
+    }
+}
+
+.sk_logo {
+    /*transform: perspective(200px) rotateX(5deg) rotateY(350deg) rotateZ(3deg);*/
+    animation: logospin 2.5s linear infinite;
+}
+
+@keyframes rotating {
+    0%{
+    transform: rotate(-5deg);
+    }
+    50%{
+    transform: rotate( 5deg);
+    }
+    100%{
+    transform: rotate(-5deg);
+    }
+}
+
+.sk_school_subheading {
+    width: 200px;
+    animation: rotating 5s ease-in-out infinite;
+}
+
+.sk_logo img {
+    color: transparent;
+    width: 0;
+    height: 0;
+}
+
+.school-card-crest img {
+    color: transparent;
+    width: 0;
+    height: 0;
+}
+
+.school-card-crest {
+    background-image: url("https://www.newlands.school.nz/wp-content/uploads/2025/07/NewlandsLogonoBG.png");
+    background-size: 112px;
+    background-repeat: no-repeat;
+    width: 112px;
+    height: 160px;
+    animation: logospin 2.5s linear infinite;
+}
+
+@keyframes spin {
+    from{
+    transform: rotate(0deg);
+    }
+    to{
+    transform: rotate(360deg);
+    }
+}
+
+@keyframes spinY {
+    from{
+    transform: rotateY(0deg) rotateZ(0deg);
+    }
+    to{
+    transform: rotateY(360deg) rotateZ(360deg);
+    }
+}
+
+/*.avatar-container {
+    width: 36px !important;
+    height: 36px !important;
+    box-shadow:0 0 0 2px #fff !important;
+    border-radius: 50%;
+    background-image: url("[INSERT IMAGE LINK HERE].gif");
+    background-position: right -5px bottom -10px !important;
+    animation: spin 5s linear infinite;
+}
+
+.avatar {
+    box-shadow:0 0 0 0px #fff !important;
+    width: 0px !important;
+}
+
+.school-card-image {
+    width: 150px !important;
+    height: 280px !important;
+    image-rendering: crisp-edges;
+    image-rendering: pixelated;
+    background-image: url("[INSERT IMAGE LINK HERE].gif");
+    background-size: 150px;
+    background-repeat: no-repeat;
+    animation: spinY 0.5s linear infinite;
+}*/
+
+.d-block{
+    width: 0px !important;
+}
+
+.tooltip-inner {
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+body {
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+@media(prefers-color-scheme: dark) {
+    .sk_header {
+        image-rendering: crisp-edges;
+        image-rendering: pixelated;
+        background: 
+            linear-gradient(to bottom, #111111ee, #111133) !important;
+        
+        background-position: 
+            top left !important;
+        
+        background-size: 
+            100% !important;
+        
+        background-repeat: no-repeat !important;
+    }
+    .main-wrapper {
+        background-image:
+            linear-gradient(to top, #111111, #111133)
+            !important;
+        
+        background-position: 
+            left top;
+        
+        background-size: 
+            100%;
+        
+        background-repeat: no-repeat;
+    }
+    .sk_page {
+        background-color:transparent!important
+    }
+    .modal-header {
+        color:#fff;
+        background: linear-gradient(to top, #495057, #777) !important;
+    }
+    @keyframes mcsplash {
+        0%{
+        transform: scale(110%) rotateZ(-5deg);
+        }
+        50%{
+        transform: scale(100%);
+        }
+        100%{
+        transform: scale(110%) rotateZ(-5deg);
+        }
+    }
+    .sk_school_name {
+        color:#fff !important;
+        font-family: "Comic Sans MS", "Comic Sans", cursive !important;
+    }
+    .sk_school_name:after {
+      width: 140px;
+      left: 320px;
+      content:'BUT BETTERRR!!!'; 
+      font-size: 15px;
+      color: gold;
+      position: absolute;
+      padding: 5px;
+      top: 2px;
+      transform: rotateZ(5deg);
+      animation: mcsplash 2s ease-in-out infinite;
+    }
+    .sk_school_subheading {
+        color:#fff !important;
+        font-family: "Comic Sans MS", "Comic Sans", cursive !important;
+    }
+    
+    .calendar-day {
+        background: #111111aa;
+    }
+    .calendar-day.non-period {
+        opacity:1.0;
+    }
+    .calendar-columnheader {
+        background: linear-gradient(to top, #3f3975, #5f5995)!important;
+    }
+    
+    .sk_btn {
+        background: linear-gradient(to top, #3f3975, #5f5995)!important;
+    }
+    .sk_btn:hover {
+        color: #fff !important;
+        background: linear-gradient(to top, #4f4985, #6f69a1)!important;
+    }
+    .week-btn {
+        background: linear-gradient(to top, #bbb, #fff)!important;
+    }
+    .btn-success {
+        background: linear-gradient(to top, #28a745, #78f7a5) !important;
+    }
+    .btn-info {
+        background: linear-gradient(to top, #17a2b8, #67f2fb) !important;
+    }
+    .btn-warning {
+        background: linear-gradient(to top, #ffc107, #fff48c) !important;
+    }
+    .btn-danger {
+        background: linear-gradient(to top, #dc3545, #ff808e) !important;
+    }
+    .btn-secondary {
+        background: linear-gradient(to top, #6c757d, #acb5bd) !important;
+    }
+    .bg-success {
+        background: linear-gradient(to top, #28a745, #78f7a5) !important;
+    }
+    .bg-info {
+        background: linear-gradient(to top, #17a2b8, #67f2fb) !important;
+    }
+    .bg-warning {
+        background: linear-gradient(to top, #ffc107, #fff48c) !important;
+    }
+    .bg-danger {
+        background: linear-gradient(to top, #dc3545, #ff808e) !important;
+    }
+    .bg-secondary {
+        background: linear-gradient(to top, #6c757d, #acb5bd) !important;
+    }
+    
+    .card .card-body {
+        color:#111;
+        background: linear-gradient(to top, #9ff, #fff) !important
+    }
+    .sk_table {
+        background-color:#111a!important;
+        border: 0px solid #0000!important;
+    }
+    th {
+        background: linear-gradient(to top, #3f3975, #5f5995)!important;
+    }
+    td {
+        border: 0px solid #0000!important;
+    }
+    .sk_nav {
+        background: linear-gradient(to top, #3f3975, #5f5995)!important;
+    }
+    
+    .footer .container {
+        visibility: hidden;
+    }
+    .footer .container:after {
+      content:"2077 - Newlands Coolege Newlands Epicledge"; 
+      font-size: 20px;
+      color: white;
+      display:block;
+      visibility: visible;
+      padding: 5px;
+    }
+    
+    .chart {
+        overflow: hidden !important;
+    }
+    
+    svg[aria-label="A chart."] {
+        animation: fullspin 20s linear infinite;
+    }
+    
+    text[fill="#222222"] {
+        fill: #fff;
+    }
+}
