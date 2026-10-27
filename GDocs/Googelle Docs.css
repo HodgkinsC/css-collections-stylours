@@ -29,7 +29,7 @@
 }
 
 #docs-chrome:not(.docs-hub-chrome) {
-    background: linear-gradient(to top, #f8fafd, #06f3), url("https://hodgkinsc.github.io/img/light_better.gif");
+    background: linear-gradient(to top, #f8fafd, #06f3), url("https://raw.githubusercontent.com/HodgkinsC/css-collections-stylours/refs/heads/main/assets/light_better.gif");
 }
 
 .docs-homescreen-fcc-content {
