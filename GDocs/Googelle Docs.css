@@ -1,0 +1,38 @@
+.goog-toolbar-button, .goog-toolbar-menu-button, .goog-toolbar-combo-button, .goog-toolbar, .docs-omnibox-autocomplete, .docs-omnibox-input {
+    background: #0000 !important;
+}
+#docs-toolbar-wrapper {
+    background: linear-gradient(to top,#d1e1f4,#edf3f9) !important;
+}
+
+.docs-grille-gm3.docs-gm .docs-material #docs-toolbar-wrapper {
+    border: 1px solid transparent;
+    border-radius: 10px;
+}
+
+.docs-grille-gm3 #docs-titlebar-share-client-button .jfk-button, .docs-grille-gm3 #scb-quick-actions-menu-button.goog-flat-menu-button {
+    background: linear-gradient(to top, #75c1f2, #c2e7ff) !important;
+    border: 1px solid transparent;
+    border-radius: 5px;
+}
+.docs-material #docs-script-button-bar .jfk-button {
+    background: linear-gradient(to top, rgba(215, 215, 215), rgba(240, 240, 240));
+    border: 1px solid transparent;
+    border-radius: 5px;
+}
+.docs-external-badge {
+    background: linear-gradient(to top, #e7ae02, #ffd14a);
+}
+
+#docs-header:not(.docs-hub-appbar) .docs-titlebar-buttons {
+    background: #0000;
+}
+
+#docs-chrome:not(.docs-hub-chrome) {
+    background: linear-gradient(to top, #f8fafd, #06f3), url("https://hodgkinsc.github.io/img/light_better.gif");
+}
+
+.docs-homescreen-fcc-content {
+    background: url("https://hodgkinsc.github.io/img/light_better.gif");
+    background-attachment: fixed;
+}
