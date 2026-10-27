@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Chewy&family=Flow+Circular&family=Fuzzy+Bubbles:wght@400;700&family=Google+Sans:ital,opsz,wght@0,17..18,400..700;1,17..18,400..700&display=swap');
+/*Google Clasroom Addition that makes google classroom have koyuki*/
+* {
+    font-family: "Fuzzy Bubbles" !important;
+}
+.google-symbols{
+    font-family: "Google Symbols" !important;
+}
+.ZizeYd {
+    background-color: #282828aa !important;
+}
+
+.R4EiSb, .prWPdf, .ScpeUc, .slDfNd, .FGKRlc, .TlYekf, .Ea4RVb, button.UywwFc-LgbsSe > .UywwFc-vQzf8d, span.UywwFc-kBDsod-Rtc0Jf > i.quRWN-Bz112c {
+    color: #fff !important;
+}
+
+.SYd3U > h2, .AX2up > .slDfNd, div.VF3TCc > .FGKRlc, .JBMs6 > .Vu2fZd{
+    color: #282828 !important;
+}
+
+.VkCvXd .PFLqgc.KFl4Z::before {
+    background: linear-gradient(to right, #0007, #0000) !important;
+}
+
+.UywwFc-LgbsSe {
+    background: linear-gradient(to top, #0b57d0, #357cec);
+}
+
+.UAJaRc {
+    display: block;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    background: url("https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Blue_Archive_EN_logo.svg/1280px-Blue_Archive_EN_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail") no-repeat;
+    background-size: 100px;
+    width: 100px; /* Width of new image */
+    position: relative;
+    top: 4px;
+    height: 50px;
+    padding-left: 100px; /* Equal to width of new image */
+}
+
+svg path[d="M19 4h-1V2h-2v2H8V2H6v2H5c-1.11 0-1.99.9-1.99 2L3 20a2 2 0 0 0 2 2h14c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 16H5V9h14v11z"] {
+    d: path("M 4 2 C 4 0 6 0 6 2 L 6 4 L 16 4 L 16 2 C 16 0 18 0 18 2 L 18 4 L 19 4 C 20.5 4 21 4.5 21 6 L 21 20 C 21 21.5 20.5 22 19 22 L 3 22 C 1.5 22 1 21.5 1 20 L 1 6 C 1 4.5 1.5 4 3 4 L 4 4 Z M 5 6 C 3.5 6 3 6.5 3 8 L 3 18 C 3 19.5 3.5 20 5 20 L 17 20 C 18.5 20 19 19.5 19 18 L 19 8 C 19 6.5 18.5 6 17 6 Z M 5.5 11 C 5.5 11.5 6 12 6.5 12 C 7 12 7.5 11.5 7.5 11 C 7.5 10.5 7 10 6.5 10 C 5.9 10 5.5 10.5 5.5 11 Z M 16.5 11 C 16.5 10.5 16 10 15.5 10 C 15 10 14.5 10.4 14.5 11 C 14.5 11.5 15 12 15.5 12 C 16 12 16.5 11.5 16.5 11 Z M 14 14 L 8 14 L 8 14.5 L 14 14.5 Z M 14 14.5 C 14 15.5 13 16.5 11 16.5 C 9 16.5 8 15.5 8 14.5 L 8.5 14.5 C 8.5 15.2 9.5 16.1 11 16.1 C 12.7 16.1 13.5 15.2 13.5 14.5");
+}
+
+svg path[d="M12 3L4 9v12h16V9l-8-6zm6 16h-3v-6H9v6H6v-9l6-4.5 6 4.5v9z"] {
+    d: path("M 12 3 L 7 9 l 0 7 L 17 16 L 17 9 l -5 -6 z m 3 11 H 9 v -4 l 3 -4 l 3 4 z M 7 17 L 6 20 L 8 18 L 9 21 L 10 19 L 12 24 L 14 19 L 15 21 L 16 18 L 18 20 L 17 17 Z M 6 10 L 6 16 L 3 19 L 3 16 Z M 18 10 L 18 16 L 21 19 L 21 16 Z")
+}
+
+svg path[d="M12 3L1 9l4 2.18v6L12 21l7-3.82v-6l2-1.09V17h2V9L12 3zm6.82 6L12 12.72 5.18 9 12 5.28 18.82 9zM17 15.99l-5 2.73-5-2.73v-3.72L12 15l5-2.73v3.72z"] {
+    d: path("M 12 3 L 1 9 l 4 2.18 v 7.82 L 12 22 l 7 -3 v -8 L 23 9 L 12 3 z m 6.82 6 L 12 12.72 L 5.18 9 L 12 5.28 L 18.82 9 z M 17 18 l -5 2 l -5 -2 v -6 L 12 15 l 5 -2.73 z M 8 14 L 8 17 L 10 18 L 10 15 Z M 16 14 L 16 17 L 14 18 L 14 15 Z M 12 7 L 11 9 L 12 11 L 13 9 Z")
+}
+
+svg path[d="M14.35,2.5h-4.7c-0.71,0-1.37,0.38-1.73,0.99L1.58,14.4c-0.36,0.62-0.36,1.38-0.01,2l2.35,4.09c0.36,0.62,1.02,1,1.73,1 h12.68c0.72,0,1.38-0.38,1.73-1l2.35-4.09c0.36-0.62,0.35-1.38-0.01-2L16.08,3.49C15.72,2.88,15.06,2.5,14.35,2.5z M18.34,19.5H5.66 l-2.35-4.09L9.65,4.5h4.7l6.34,10.91L18.34,19.5z M12.9,7.75h-1.8l-4.58,7.98L7.25,17h9.5l0.73-1.27L12.9,7.75z M9.25,15L12,10.2 l2.75,4.8H9.25z"] {
+    d: path("M14.35 2.5h-4.7c-.71 0-1.37.38-1.73.99L1.58 14.4c-.36.62-.36 1.38-.01 2l2.35 4.09c.36.62 1.02 1 1.73 1h12.68c.72 0 1.38-.38 1.73-1l2.35-4.09c.36-.62.35-1.38-.01-2L16.08 3.49c-.36-.61-1.02-.99-1.73-.99zm4.05 17H5.6l-2.36-4.1L9.6 4.5h4.8l6.45 11zM10 5 9.9 5 3.9 15.4 6 19 14 19 6 13 15 14ZM10 5 14.1 5 20.1 15.5 18 19 14 19 10 14.5 19 16")
+}
+
+.wQiG5d {
+    background: linear-gradient(to right, #c2e7ff, #c2e7ff00) !important;
+}
+
+.uTwgne:hover .pzaVke {
+    background: linear-gradient(to right, #1f1f1f20, #0000);
+}
+
+.mwJvDe .KEDCCd {
+    background-color: #fff7;
+}
+
+.pzaVke, .wQiG5d, .dNKuRb {
+    border-radius: 10px !important;
+}
+
+.joJglb, .tCcYY, .OkLq5b {
+    background: linear-gradient(to top, #638e985e, #a8e4835e);
+    background-attachment: fixed;
+    fill: #c0d9bd;
+}
+
+.tCcYY, .joJglb {
+    background: linear-gradient(to top, #638e985e, #a8e4835e), linear-gradient(to top right, #2b2f3945, #0000), url("https://hodgkinsc.github.io/img/biglightbetter.gif");
+    background-attachment: fixed !important;
+}
+
+.PM0jOb {
+    background-color: #fff7;
+}
+
+.fXYYpf .T4LgNb, body, .nZGqwf .kFwPee {
+    background: linear-gradient(to top, #638e9826, #a8e48333), url("https://hodgkinsc.github.io/img/biglightbetter.gif") !important;
+    background-attachment: fixed !important;
+}
+
+body {
+    background-color:#fff
+}
+
+.FkiMUb {
+    visibility: hidden !important;
+}
+.FkiMUb:before {
+    content: "Hah Hah";
+    visibility: visible;
+    position: absolute;
+    left: 180px;
+}
+.FkiMUb:hover:before {
+    content: "Nihahaha";
+    visibility: visible;
+    position: absolute;
+    left: 180px;
+    text-decoration: underline;
+}
+
+.PFLqgc[style='background-image: url("https://gstatic.com/classroom/themes/img_bookclub.jpg");'] {
+    background-image: url("https://hodgkinsc.github.io/img/img_FAKEclub.jpg") !important;
+}
+
+
